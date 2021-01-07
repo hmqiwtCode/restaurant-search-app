@@ -12,6 +12,7 @@ const ResultsDetail = ({result}) => {
         </View>
     );
 };
+// them vao abc zyx
 
 const styles = StyleSheet.create({
     container : {
